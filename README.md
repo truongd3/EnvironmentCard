@@ -1,6 +1,6 @@
 # Environment Card
 #### By Truong Duc Dang [(2DT Official)](https://www.youtube.com/channel/UC8suz7ZRvQ8mSRlu65ogJ1w)
-![alt text](https://drive.google.com/file/d/1C0qtw5_uE8Z4aMgrdHS1Fj3cTXsaZnCH/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1C0qtw5_uE8Z4aMgrdHS1Fj3cTXsaZnCH/view?usp=sharing" width=300><br>
 
 ## How to Run?
 * Click in to the WWDC2022 folder.
