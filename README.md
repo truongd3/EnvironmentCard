@@ -1,11 +1,13 @@
 # Environment Card
-#### By Truong Duc Dang (2DT Official)
+#### By Truong Duc Dang [(2DT Official)](https://www.youtube.com/channel/UC8suz7ZRvQ8mSRlu65ogJ1w)
 
 ## How to Run?
+```bash
 - Click in to the WWDC2022 folder.
 - Clone all the folders and file here.
 - Open the source code on Xcode then run.
 - The app is interactive but in my opinion, the best interface is when we use iPhone 11.
+```
 
 ## App Description
 My flashcard app gives some basic information and knowledge about protecting environment. Environment is a lifetime topic; however, it is always ignored and damaged by humans despite warnings in education and even on social media. Therefore, I decided to build this app to educate users about conserving the nature.
