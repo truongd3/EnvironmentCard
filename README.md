@@ -1,4 +1,9 @@
 # 🦚🍀🐐🐱 Environment Card 🐶🦄🎄🐲
+![language](https://img.shields.io/badge/Language-%20Swift%20-orange.svg)
+![CI Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+[![Version](https://img.shields.io/cocoapods/v/SAConfettiView.svg?style=flat)](http://cocoapods.org/pods/SAConfettiView)
+[![License](https://img.shields.io/cocoapods/l/SAConfettiView.svg?style=flat)](http://cocoapods.org/pods/SAConfettiView)
+[![Platform](https://img.shields.io/cocoapods/p/SAConfettiView.svg?style=flat)](http://cocoapods.org/pods/SAConfettiView)
 <p>
    <img src="https://scontent-iad3-2.xx.fbcdn.net/v/t1.15752-9/315210206_1364033547759021_9093606016075979338_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=vLNgZGAgIn0AX8oyy4f&_nc_ht=scontent-iad3-2.xx&oh=03_AdTtNz3gMNc6QEZzjUr9z6b8ptWcMTMical_IdV0ALZ-ow&oe=63C072C5" width=220>
   <img src="https://scontent-iad3-2.xx.fbcdn.net/v/t1.15752-9/317134335_566410865261740_7240822051788710140_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Mnnvyh0WKAwAX-x4vl2&_nc_ht=scontent-iad3-2.xx&oh=03_AdRD0hYik5UD9snKVEicZaoboInmDvrfQXAcek8bhvK9FQ&oe=63C08F0B" width=220>
