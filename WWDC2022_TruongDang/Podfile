@@ -1,0 +1,6 @@
+target 'WWDC2022_TruongDang' do
+use_frameworks!
+
+pod 'SAConfettiView'
+
+end
