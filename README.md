@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/SAConfettiView.svg?style=flat)](http://cocoapods.org/pods/SAConfettiView)
 [![Platform](https://img.shields.io/cocoapods/p/SAConfettiView.svg?style=flat)](http://cocoapods.org/pods/SAConfettiView)
 
-#### 👉🏼 [Link](https://youtu.be/WhOarQhY8FI) to demo video.
+#### 👉🏼 [Link](https://youtu.be/WhOarQhY8FI) to demo video on YouTube
 
 https://github.com/user-attachments/assets/904b17af-8542-4c54-837f-9ffe22b3e155
 
